@@ -1,0 +1,11 @@
+
+spring:
+  application:
+    name: app-auth
+  profiles:
+    active: test
+
+server:
+  port: 8801
+  servlet:
+    context-path: /auth
