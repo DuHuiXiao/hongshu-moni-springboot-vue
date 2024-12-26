@@ -52,6 +52,6 @@ export const options = reactive({
     loading,
     error,
   },
-  // 是否懒加载
+  // 这是是否懒加载
   lazyload: true,
 });
